@@ -1,6 +1,4 @@
-Por supuesto, aquí tienes una descripción para el README de un repositorio de GitHub para talkmap.io:
 
----
 
 # Talkmap.io
 
